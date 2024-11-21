@@ -3,6 +3,7 @@ import { Counter, Greeting, AlertButton } from './latihan';
 import '@testing-library/jest-dom';
 import React from 'react';
 
+<<<<<<< HEAD
 test('penjumlahan sederhana', () => {
     expect(1 + 2).toBe(3);
   });
@@ -22,3 +23,5 @@ test('penjumlahan sederhana', () => {
     expect(arr).toContain(2);
   });
   
+=======
+>>>>>>> 0a26ae15d40d570c6900688a4a3ae764fbb4d9d4

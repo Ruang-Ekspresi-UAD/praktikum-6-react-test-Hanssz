@@ -4,6 +4,7 @@ import '@testing-library/jest-dom';
 import Counter from './counter';
 import Display from './display';
 
+<<<<<<< HEAD
 // counter.test.js
 
 // Contoh fungsi counter untuk diuji
@@ -44,3 +45,5 @@ function createCounter() {
   });
   
   
+=======
+>>>>>>> 0a26ae15d40d570c6900688a4a3ae764fbb4d9d4
